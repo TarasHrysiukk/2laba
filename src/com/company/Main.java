@@ -25,7 +25,7 @@ public class Main {
 
         if (blength<xlenght && cwidth<ywidth)
         {
-            System.out.println("wz Цеглина влізе у отвір");
+            System.out.println("wz jbvkjrb Цеглина влізе у отвір");
             return;
         }
         if (blength<xlenght && cwidth>ywidth && cwidth<xlenght && blength<ywidth)
